@@ -121,8 +121,8 @@ This project significantly improved the management efficiency of high school act
 - **Node.js & NestJS:** Chosen for their efficiency in handling asynchronous operations and modular architecture.
 - **Docker, Nginx, & Cloudflare:** Used to containerize applications, manage web traffic, and enhance security.
 
-![High School Activity Management System](http://educonnect.digital/)
-![Icore Modular Package](https://www.npmjs.com/package/enkei)
+[High School Activity Management System](http://educonnect.digital/)
+[Icore Modular Package](https://www.npmjs.com/package/enkei)
 
 The impact of this project extends beyond simplifying administrative tasks; it fosters a more engaging and interactive learning environment. By reducing the time spent on operational activities, educators can focus more on teaching and students on learning.
 
