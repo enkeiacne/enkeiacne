@@ -74,3 +74,26 @@ Welcome to my GitHub profile! As a multifaceted backend developer with a passion
 </td>
       </tr>
     </table>
+
+## Project Showcase
+
+### Online Donation
+**Rakhasa Artha Wisesa - Backend Development**
+
+In my role at Rakhasa Artha Wisesa, I spearheaded the integration of multiple payment gateways to enhance our platform's financial transaction capabilities. This project was crucial in enabling secure, efficient online donations and transactions for our users, thereby supporting the organization's housing initiatives.
+
+#### Highlights:
+- **Seamless API Integration:** Integrated several payment gateways, including Stripe, Midtrans, Dana, BCA, and Mandiri, into our existing systems. This required thorough API documentation research, endpoint testing, and security validations to ensure seamless functionality.
+- **Security Implementation:** Focused on implementing robust encryption standards and security measures to safeguard user financial information. This included the setup of secure communication channels, data encryption at rest and in transit, and compliance with financial data protection regulations.
+- **Technology Stack:** Leveraged Laravel for the backend framework, enhancing it with the Icore Package for better modularization. The system's data persistence layer was managed with PostgreSQL, ensuring high performance and reliability for transactional operations.
+
+#### Impact:
+- **User Trust and Security:** The successful integration of these payment gateways significantly elevated the platform's trustworthiness, allowing users to make donations and transactions with confidence.
+- **Operational Efficiency:** Streamlined the donation process, leading to an increase in user engagement and contributions to the housing initiative. The project also set a foundation for future financial integrations and expansions.
+
+This project stands as a testament to the power of combining cutting-edge technology with industry best practices to create secure, user-friendly digital experiences.
+
+#### Explore More:
+- **Live Project:** [View the live project here](https://rumahberkat.com/)
+---
+
