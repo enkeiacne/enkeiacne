@@ -32,8 +32,45 @@ Welcome to my GitHub profile! As a multifaceted backend developer with a passion
     </td>
     <td valign="top" width="70%">
 
-### Experience
+### 🖥Experience
+#### Backend Developer at Rakhasa Artha Wisesa - West Jakarta, Dki Jakarta
+##### April 2023 - Present
+- Designed and developed RESTful APIs to facilitate seamless communication between frontend and backend systems.
+- Ensured API endpoints were well-documented and adhered to industry best practices for security and clarity.
+- Integrated payment gateways (Stripe, Midtrans, Dana, BCA, Mandiri) for secure online transactions.
+- Implemented robust encryption and security measures to protect sensitive financial information.
+- **Technologies Used:** Laravel, Icore Package, Midtrans, PostgreSQL, and more.
 
--     </td>
-    </tr>
-  </table>
+#### Backend Developer at Enigma Educonnect - Bandung, Indonesia
+##### August 2022 - Present
+- Developed a web service API to manage high school activities, including schedules, attendance, grades, fees, and communication.
+- Created modular packages for core functionalities like authentication, media handling, and payment processing, using NestJS.
+- Engineered scalable and efficient solutions, collaborating closely with cross-functional teams for seamless integration.
+- **Technologies Used:** Firebase FCM, Amazon EC2, Amazon RDS, Firebase Storage, Midtrans, Node.js, NestJS, Docker, Nginx, Cloudflare.
+
+#### Backend Developer at RumahKita Team - Bandung, Indonesia
+##### January 2022 - February 2023
+- Created a web service API for managing village activity documentation and local news.
+- **Technologies Used:** EC2 Amazon Web Services, S3 Amazon Web Services, Firebase FCM, Document DB Amazon Web Services, Node.js.
+
+#### Freelance Web Developer for Reza P - Bandung, Indonesia
+##### June 2022
+- Developed a back-office admin web application for managing power plant operations with MapBox API integration.
+- **Technologies Used:** PHP, HTML, CSS, JavaScript, MapBox API.
+
+#### Laboratory Assistant at Pasundan University - Bandung, Indonesia
+##### June 2021 - June 2022
+- Assisted in managing student practicums and supporting lecturers with technical and academic tasks.
+
+#### Android Developer for Danu N - Bandung, Indonesia
+##### January 2022 - February 2022
+- Developed the "Pariwisita Apps" using Android Studio, incorporating AI genetic algorithms for recommending tourist attractions based on location and operational hours.
+- **Technologies Used:** Kotlin, Maps API.
+
+#### Web Developer Intern at Pasundan University - Bandung, Indonesia
+##### April 2021 - June 2021
+- Developed an online canteen web application for order and payment processing, including sales reporting.
+- **Technologies Used:** Laravel (PHP), HTML, CSS, JavaScript, Midtrans.
+</td>
+      </tr>
+    </table>
