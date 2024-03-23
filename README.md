@@ -122,6 +122,7 @@ This project significantly improved the management efficiency of high school act
 - **Docker, Nginx, & Cloudflare:** Used to containerize applications, manage web traffic, and enhance security.
 #### Explore More
 - Live Project :[High School Activity Management System](http://educonnect.digital/)
+- Mobile App : [High School Activity Management System Mobile](https://play.google.com/store/apps/details?id=com.educonnect.app)
 - Package : [Icore Modular Package](https://www.npmjs.com/package/enkei)
 
 The impact of this project extends beyond simplifying administrative tasks; it fosters a more engaging and interactive learning environment. By reducing the time spent on operational activities, educators can focus more on teaching and students on learning.
