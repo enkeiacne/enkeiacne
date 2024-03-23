@@ -128,4 +128,14 @@ The impact of this project extends beyond simplifying administrative tasks; it f
 
 ---
 
+## Education
+
+### Bachelor of Engineering in Informatics Engineering
+**Pasundan University - Bandung, Indonesia**
+- **Graduation:** Expected in 2022
+- **GPA:** 3.79
+
+During my time at Pasundan University, I delved into various aspects of informatics engineering, honing my skills in software development, system analysis, and network engineering. This rigorous program not only provided me with a strong technical foundation but also equipped me with critical thinking and problem-solving abilities, preparing me for the challenges of the tech industry.
+
+
 
