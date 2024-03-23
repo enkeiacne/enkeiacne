@@ -97,3 +97,35 @@ This project stands as a testament to the power of combining cutting-edge techno
 - **Live Project:** [View the live project here](https://rumahberkat.com/)
 ---
 
+## Backend Developer at Enigma Educonnect - Bandung, Indonesia
+### August 2022 - Present
+
+At Enigma Educonnect, my role as a Backend Developer involves enhancing the educational experience through technology. I've been pivotal in developing a web service API designed to streamline high school administrative and educational processes.
+
+### Project Overview: High School Activity Management API
+
+- **Objective:** Create a comprehensive solution for managing high school activities, including schedules, attendance, grades, fees, and communication.
+- **Technologies Used:** Leveraged a suite of technologies including Firebase FCM, Amazon EC2, Amazon RDS, Firebase Storage, Midtrans, Node.js, NestJS, Docker, Nginx, and Cloudflare to build a robust, scalable system.
+- **Key Achievements:**
+  - Developed modular packages for essential functionalities like authentication, media handling, and payment processing using NestJS.
+  - Engineered scalable and efficient solutions, ensuring seamless integration across various platforms and services.
+  - Facilitated a collaborative development environment, working closely with cross-functional teams to meet complex requirements and deliver high-quality software solutions.
+
+### Impact and Technologies
+
+This project significantly improved the management efficiency of high school activities, enhancing the educational ecosystem for students, teachers, and parents alike. By introducing a centralized system for handling various administrative and educational tasks, we've streamlined operations, reduced manual workload, and improved overall user experience.
+
+- **Firebase FCM & Storage:** For real-time notifications and secure file storage.
+- **Amazon EC2 & RDS:** Leveraged for scalable cloud computing and reliable database services.
+- **Midtrans:** Integrated payment solutions for school fees processing.
+- **Node.js & NestJS:** Chosen for their efficiency in handling asynchronous operations and modular architecture.
+- **Docker, Nginx, & Cloudflare:** Used to containerize applications, manage web traffic, and enhance security.
+
+![High School Activity Management System](http://educonnect.digital/)
+![Icore Modular Package](https://www.npmjs.com/package/enkei)
+
+The impact of this project extends beyond simplifying administrative tasks; it fosters a more engaging and interactive learning environment. By reducing the time spent on operational activities, educators can focus more on teaching and students on learning.
+
+---
+
+
