@@ -6,6 +6,10 @@ Hello !! I'm Deny Andriana. I’m 26 years old, As a multifaceted backend develo
   <tr>
     <td valign="top" width="30%">
 
+### Contacts Information
+- **Email** : [denyandriana06@gmail.com](mailto:denyandriana06@gmail.com)
+- **Phone** : +6285774588744
+- **Address** : Jakarta,Indonesia,11320 
 ### 🛠 Core Qualifications
 
 - **Back-End Development**
