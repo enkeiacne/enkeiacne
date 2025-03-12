@@ -7,7 +7,7 @@
 ---
 
 # **Professional Summary**  
-A highly motivated and results-driven **Backend Developer** with expertise in **Go (Golang), Node.js, TypeScript, and PHP**, specializing in **scalable, efficient, and secure backend solutions**. Possesses extensive experience in **RESTful API and gRPC development, cloud computing, DevOps, and secure payment integrations**. Dedicated to optimizing database performance and microservices architecture to enhance operational efficiency. Committed to continuous learning and the adoption of cutting-edge technologies to deliver innovative solutions.
+Im 26 yeard old and a highly motivated and results-driven **Backend Developer** with expertise in **Go (Golang), Node.js, TypeScript, and PHP**, specializing in **scalable, efficient, and secure backend solutions**. Possesses extensive experience in **RESTful API and gRPC development, cloud computing, DevOps, and secure payment integrations**. Dedicated to optimizing database performance and microservices architecture to enhance operational efficiency. Committed to continuous learning and the adoption of cutting-edge technologies to deliver innovative solutions.
 
 ---
 
@@ -49,7 +49,7 @@ A highly motivated and results-driven **Backend Developer** with expertise in **
 
 ## **Backend Developer**  
 **Enigma Educonnect | Bandung, Indonesia**  
-📅 _August 2022 – Present_  
+📅 _August 2022 – December 2024_  
 ✔ Developed **high school management APIs** facilitating attendance tracking, grading, and payment processing  
 ✔ Created modular backend solutions utilizing **NestJS, Node.js, Firebase, AWS**  
 ✔ Integrated **secure payment gateways** and authentication mechanisms  
