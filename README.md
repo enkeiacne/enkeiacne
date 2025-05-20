@@ -13,8 +13,10 @@ I’m Deny Andriana, a backend developer passionate about building scalable syst
 ### Contact Information
 📧 denyandriana06@gmail.com  
 📱 +6285774588744
-🔗 [Github](https://github.com/enkeiacne)  
-🔗 [Linkedin](https://www.linkedin.com/in/deny-andriana-934715120/)  
+
+🔗 [Github](https://github.com/enkeiacne)
+
+🔗 [Linkedin](https://www.linkedin.com/in/deny-andriana-934715120/)
 
 ### 🛠 Core Qualifications
 
