@@ -1,105 +1,89 @@
-**Deny Andriana**  
-📍 Jakarta, Indonesia, 11320  
-📧 [denyandriana06@gmail.com](mailto:denyandriana06@gmail.com)  
-📞 +62 857 7458 8744  
-🔗 [LinkedIn](#) | [GitHub](#)  
+# Deny Andriana
+
+## About Me
+
+I’m Deny Andriana, a backend developer passionate about building scalable systems and modern cloud-based applications. With a strong foundation in computer science and hands-on experience in backend architecture, API development, and DevOps, I specialize in creating robust, secure, and maintainable software solutions.
 
 ---
 
-# **Professional Summary**  
-Im 26 yeard old and a highly motivated and results-driven **Backend Developer** with expertise in **Go (Golang), Node.js, TypeScript, and PHP**, specializing in **scalable, efficient, and secure backend solutions**. Possesses extensive experience in **RESTful API and gRPC development, cloud computing, DevOps, and secure payment integrations**. Dedicated to optimizing database performance and microservices architecture to enhance operational efficiency. Committed to continuous learning and the adoption of cutting-edge technologies to deliver innovative solutions.
+<table>
+  <tr>
+    <td valign="top" width="30%">
 
----
+### Contact Information
+📧 denyandriana06@gmail.com  
+📱 +6285774588744
+🔗 [Github](https://github.com/enkeiacne)  
+🔗 [Linkedin](https://www.linkedin.com/in/deny-andriana-934715120/)  
 
-# **Technical Skills**  
+### 🛠 Core Qualifications
 
-## **Backend Development**  
-✔ Proficient in **Go (Golang), Node.js, TypeScript, PHP**  
-✔ Experienced in frameworks **NestJS, Laravel**  
-✔ Expertise in **RESTful API and gRPC service development**  
+- **Back-End Development**
+  - **Technologies:** Proficient in Go (Golang), Node.js, TypeScript, and PHP, with strong experience in frameworks like NestJS and Laravel for building scalable and efficient back-end solutions.
+  - **API Expertise:** Skilled in designing and implementing RESTful APIs and gRPC services.
+- **DevOps**
+  - **Tools & Technologies:** Docker and kubernetes for containerization, Cloudflare for security and CDN services, comprehensive web server management.
+  - **Cloud Platforms:** AWS configuration and management, Firebase for backend services.
+- **Web Development:**
+  - **Languages & Frameworks:** Expert in PHP, HTML, CSS, and JavaScript,NextJS , creating responsive and dynamic web applications.
+- **Database Management:**
+  - **Systems:** Well-versed in both SQL and NoSQL databases, ensuring efficient data storage and retrieval.
+- **Android Development:**
+  - **Programming Languages:** Develop Android applications with a focus on user experience and performance using Java and Kotlin.
+- **Machine Learning:**
+  - **Python:** Utilizing Python for machine learning projects, from data analysis to model deployment, driving insights and automation.
 
-## **DevOps & Cloud Computing**  
-✔ Skilled in **Docker, Kubernetes, AWS, Firebase, Cloudflare**  
-✔ Web server management (**Nginx, Apache**)  
+### 🎖 Certifications
 
-## **Database Management**  
-✔ Expertise in **PostgreSQL, MySQL, MongoDB, Redis**  
-✔ Query optimization and database scalability techniques  
+- **[Machine Learning Developer](https://drive.google.com/file/d/1XQAuQvi266kIgdkmchQ8URYWGPjK481O/view?usp=drive_link)** - FGAML Digital Talent Scholarship
+- **[Android Developer](https://drive.google.com/file/d/1GTUMnVT-3AIZcU8prAZZjbfiMP1KDBWd/view?usp=sharing)** - UdaCoding Mentoring Bootcamp
+- **[AWS Back-End Developer](https://drive.google.com/file/d/1n6ElmTYQ1-KZVtW_0lhMrP9BhOqE-sd2/view?usp=sharing)** - Scholarship Program
 
-## **Web Development**  
-✔ Proficient in **PHP, JavaScript, Next.js, HTML, CSS**  
+    </td>
+    <td valign="top" width="70%">
 
-## **Android Development**  
-✔ Competent in **Java, Kotlin** using Android Studio  
+### 🖥Experience
 
-## **Machine Learning**  
-✔ Experienced in **Python**, machine learning model development and deployment  
+#### Backend Developer at Rakhasa Artha Wisesa - West Jakarta, Dki Jakarta
 
----
+##### April 2023 - April 2025
 
-# **Professional Experience**  
+- Designed and implemented RESTful APIs and gRPC services using Go (Golang), Node.js, and Laravel.
+- Ensured compliance with industry best practices for API security, documentation, and scalability.
+- Led backend development for:
+  - **CBN Website Auto Deploy** — Managed server configurations, service planning, dependency installations, and payment integration for automated website deployment.
+  - **CRM Application** — A modular system for managing customers, leads, and product types (digital, physical, and services).
+  - **Icore Package** — Developed core functional packages and systems for seamless integration across various applications.
+  - **Online Donation Platform** — Implemented secure payment integrations (Midtrans, Dana, BCA, Mandiri, Stripe), enhanced API security, and built scalable donation workflows.
+- **Technologies Used:** Go (Golang), Node.js, Laravel, PostgreSQL, Docker, Kubernetes, and more.
 
-## **Backend Developer**  
-**Rakhasa Artha Wisesa | West Jakarta, Indonesia**  
-📅 _April 2023 – Present_  
-✔ Designed and developed **RESTful APIs and gRPC services** utilizing **Go, TypeScript, and Laravel**  
-✔ Implemented **secure and scalable payment gateway integrations** including Midtrans, Dana, BCA, and Mandiri  
-✔ Engineered **modular core packages** to ensure seamless system integration  
-✔ Optimized **database performance and backend services** for high-traffic applications  
+#### Freelance Backend Developer - Online, Indonesia
 
-## **Backend Developer**  
-**Enigma Educonnect | Bandung, Indonesia**  
-📅 _August 2022 – December 2024_  
-✔ Developed **high school management APIs** facilitating attendance tracking, grading, and payment processing  
-✔ Created modular backend solutions utilizing **NestJS, Node.js, Firebase, AWS**  
-✔ Integrated **secure payment gateways** and authentication mechanisms  
+##### August 2022 - Desember 2024
+- Led backend development for:
+  - **School Management System** — Developed a web service API to manage high school activities, including schedules, attendance, grades, fees, and communication.
+  - **Village Apps** — Created a web service API for managing village activity documentation and local news.
+  - **PLN Website** — Developed a back-office admin web application for managing power plant operations with MapBox API integration.
+- **Technologies Used:** Firebase FCM, Amazon EC2, Amazon RDS, Firebase Storage, Midtrans, Node.js, NestJS,PHP, Docker, Nginx, Cloudflare.
 
-## **Backend Developer**  
-**RumahKita Team | Bandung, Indonesia**  
-📅 _January 2022 – February 2023_  
-✔ Designed and developed **village activity and news management web services**  
-✔ Leveraged **AWS EC2, S3, Firebase FCM, and DocumentDB** for cloud-based solutions  
+#### Laboratory Assistant at Pasundan University - Bandung, Indonesia
 
-## **Freelance Web Developer**  
-**Reza P | Bandung, Indonesia**  
-📅 _June 2022_  
-✔ Developed an **administrative web application** for power plant management, incorporating **MapBox API**  
+##### June 2021 - June 2022
 
-## **Android Developer**  
-**Danu N | Bandung, Indonesia**  
-📅 _January 2022 – February 2022_  
-✔ Developed a **tourism recommendation application** leveraging **Kotlin, Maps API, and AI-driven algorithms**  
-
-## **Web Developer Intern**  
-**Pasundan University | Bandung, Indonesia**  
-📅 _April 2021 – June 2021_  
-✔ Designed and developed an **online canteen system** utilizing **Laravel and Midtrans payment gateway**  
-
----
-
-# **Education**  
-
-## **Bachelor of Engineering in Informatics Engineering**  
-**Pasundan University | Bandung, Indonesia**  
-📅 _Graduated: 2022 | GPA: 3.79/4.00_  
-
----
-
-# **Certifications**  
-
-🏅 **[Machine Learning Developer](https://drive.google.com/file/d/1XQAuQvi266kIgdkmchQ8URYWGPjK481O/view?usp=drive_link)** – FGAML Digital Talent Scholarship  
-🏅 **[Android Developer](https://drive.google.com/file/d/1GTUMnVT-3AIZcU8prAZZjbfiMP1KDBWd/view?usp=sharing)** – UdaCoding Mentoring Bootcamp  
-🏅 **[AWS Back-End Developer](https://drive.google.com/file/d/1n6ElmTYQ1-KZVtW_0lhMrP9BhOqE-sd2/view?usp=sharing)** – Scholarship Program  
-
----
-
-# **Tools & Technologies**  
-✔ **Programming Languages**: Go, TypeScript, PHP, JavaScript, Java, Kotlin, Python  
-✔ **Frameworks**: NestJS, Laravel, Next.js  
-✔ **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
-✔ **Cloud & DevOps**: Docker, Kubernetes, AWS, Firebase, Cloudflare  
-✔ **Version Control**: Git, GitHub, GitLab  
-
----
+- Assisted in managing student practicums and supporting lecturers with technical and academic tasks.
 
 
+</td>
+      </tr>
+    </table>
+
+## Education
+
+### Bachelor of Engineering in Informatics Engineering
+
+**Pasundan University - Bandung, Indonesia**
+
+- **Graduation:** 2022
+- **GPA:** 3.79
+
+During my time at Pasundan University, I delved into various aspects of informatics engineering, honing my skills in software development, system analysis, and network engineering. This rigorous program not only provided me with a strong technical foundation but also equipped me with critical thinking and problem-solving abilities, preparing me for the challenges of the tech industry.
