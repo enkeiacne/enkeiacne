@@ -44,6 +44,12 @@ I’m Deny Andriana, a backend developer passionate about building scalable syst
 
 ### 🖥Experience
 
+#### Backend Developer at PT Transportasi Jakarta
+
+#### Mei 2025 - Present
+
+- Designed and implemented RESTful APIs and gRPC services using Go (Golang).
+
 #### Backend Developer at Rakhasa Artha Wisesa - West Jakarta, Dki Jakarta
 
 ##### April 2023 - April 2025
