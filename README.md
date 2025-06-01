@@ -46,10 +46,10 @@ I’m Deny Andriana, a backend developer passionate about building scalable syst
 
 #### Backend Developer at PT Transportasi Jakarta
 
-#### Mei 2025 - Present
+##### Mei 2025 - Present
 
 - Designed and implemented RESTful APIs and gRPC services using Go (Golang).
-
+<br>
 #### Backend Developer at Rakhasa Artha Wisesa - West Jakarta, Dki Jakarta
 
 ##### April 2023 - April 2025
@@ -62,7 +62,7 @@ I’m Deny Andriana, a backend developer passionate about building scalable syst
   - **Icore Package** — Developed core functional packages and systems for seamless integration across various applications.
   - **Online Donation Platform** — Implemented secure payment integrations (Midtrans, Dana, BCA, Mandiri, Stripe), enhanced API security, and built scalable donation workflows.
 - **Technologies Used:** Go (Golang), Node.js, Laravel, PostgreSQL, Docker, Kubernetes, and more.
-
+<br>
 #### Freelance Backend Developer - Online, Indonesia
 
 ##### August 2022 - Desember 2024
@@ -71,7 +71,7 @@ I’m Deny Andriana, a backend developer passionate about building scalable syst
   - **Village Apps** — Created a web service API for managing village activity documentation and local news.
   - **PLN Website** — Developed a back-office admin web application for managing power plant operations with MapBox API integration.
 - **Technologies Used:** Firebase FCM, Amazon EC2, Amazon RDS, Firebase Storage, Midtrans, Node.js, NestJS,PHP, Docker, Nginx, Cloudflare.
-
+<br>
 #### Laboratory Assistant at Pasundan University - Bandung, Indonesia
 
 ##### June 2021 - June 2022
